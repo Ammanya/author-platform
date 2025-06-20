@@ -59,7 +59,7 @@ You’ll run the **frontend** and **backend** separately.
 ### Step 1: Navigate to the backend folder
 
 ```bash
-cd backend
+cd server
 Step 2: Install backend dependencies
 npm install
 
